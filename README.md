@@ -8,7 +8,7 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-|  Authors/README File | [AUTHORS](https://github.com/justinmajetich/AirBnB_clone/blob/dev/AUTHORS) | Project authors |
+|  Authors/README File | [AUTHORS](https://github.com/Ahercode/AirBnB_clone_v2/blob/main/AUTHORS) | Project authors |
 | 0: Fork me if you can! | AirBnB_clone_v2 | All code is pep8 compliant|
 | 1: Bug free! | AirBnB_clone_v2 |All class-defining modules are unittested |
 | 2. Console improvements | console.py, models/, tests/ | Defines a parent class to be inherited by all model classes|
